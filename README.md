@@ -1,4 +1,4 @@
-# Cloth-Recommender-Sytem
+# Cloth-Recommender-System
 
 A recommender system was built that recommends the clothes to the female customers for their rental purpose. The rental purposes depend on the activities a user wants to carry out, such as: vacation, meetings, weddings, dates, etc. The recommendation is based on the features like customers’ height, weight, bust size, body type, age, and reason to rent.
 
