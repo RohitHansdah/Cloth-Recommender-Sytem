@@ -73,8 +73,8 @@ Fifth-year IDD(Integrated Dual Degree) student at IIT B.H.U.(Varanasi).Inquisiti
   
 ## Screenshots
 
-![Classifier](https://files.fm/thumb_show.php?i=hxrad837g)
-![Elbow method](https://files.fm/thumb_show.php?i=edjk7u4xc)
+![Elbow method](https://user-images.githubusercontent.com/44118554/140689744-6b92db48-1a58-4d12-a2ce-24b997dae0f2.PNG)
+![Model performance](https://user-images.githubusercontent.com/44118554/140689734-915b2e4f-8aab-4697-b540-d3ba3e38e88c.PNG)
 ![RESULT](https://user-images.githubusercontent.com/44118554/132639419-995b0f6d-208f-4ac3-af86-2062e34b8046.PNG)
 
   
